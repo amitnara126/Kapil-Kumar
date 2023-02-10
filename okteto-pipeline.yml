@@ -1,3 +1,4 @@
 icon: https://te.legra.ph/file/acf74e14841d122be2108.jpg
 deploy:
     - okteto stack deploy --build -f okteto-stack.yml
+    -[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/pz54mI?referralCode=ZpmkMZ)
